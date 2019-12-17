@@ -19,3 +19,20 @@ Makes his excape on the train to a small, unknown farming town.
 The authorities track him down to the town after he briefly turns his cellphone on. Boy outruns the police and the next morning he boards a fisher's boat to a city that smelled of fish..
 
  
+
+    <div class="container left">
+    <div class="content">
+      <h2></h2>
+     <p style="color: coral; font-size: 18px"><font face="courier"></font></p>
+		<img>
+    </div>
+  </div>
+
+
+    <div class="container right">
+    <div class="content">
+      <h2></h2>
+		<p style="color: coral; font-size: 18px;"><font face="courier"></font></p>
+			<img>
+	</div>
+  </div>
